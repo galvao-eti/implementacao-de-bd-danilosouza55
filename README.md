@@ -2,6 +2,8 @@
 
 Aluno: Danilo Araújo de Souza
 
+Projeto com Docker + Nginx + PostgreSQL + PgAdmin + PHP
+
 Para rodar o projeto com docker execute:
 
 ```
