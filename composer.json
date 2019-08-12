@@ -8,5 +8,8 @@
         "psr-4": {
             "PosAlfa\\": "src/PosAlfa2019/"
         }
-    }
+    },
+  "require": {
+    "ext-pdo": "*"
+  }
 }

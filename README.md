@@ -1,5 +1,19 @@
 # pos-alfa-2019
 
+Aluno: Danilo Araújo de Souza
+
+Para rodar o projeto com docker execute:
+
+```
+docker-compose up -d
+```
+
+Para Acessar o banco use: http://localhost:8080;
+Apos isso execute o arquivo 'DADOS.SQL' em seu banco Postgresql 
+
+Para Acessar o Projeto use: http://localhost/
+
+
 Trabalho final da turma de 2019 da Disciplina Orientação a Objetos usando PHP como Linguagem de Implementação.
 
 ## Orientações
